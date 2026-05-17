@@ -1,5 +1,5 @@
 {
-  "script_enabled": true,
+  "script_enabled": false,
   "ascii_banner": "{PRIMARY}\n░██████╗██╗░░██╗          {WHITE}░█████╗░░█████╗░███████╗\n{PRIMARY}██╔════╝██║░░██║          {WHITE}██╔══██╗██╔══██╗╚════██║\n{PRIMARY}╚█████╗░███████║          {WHITE}██║░░██║██║░░██║░░░░██╔╝\n{PRIMARY}░╚═══██╗██╔══██║          {WHITE}██║░░██║██║░░██║░░░██╔╝░\n{PRIMARY}██████╔╝██║░░██║          {WHITE}╚█████╔╝╚█████╔╝░░██╔╝░░\n    {BWHITE}⚡ {PRIMARY}SH 007 AUTO VOTING PRO v2{BWHITE}⚡\n    {ACCENT}🚀 DEVICE: {DEVICE_NAME} 🚀{RESET}",
   "last_updated": "2026-04-21"
 }
